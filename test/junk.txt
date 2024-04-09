@@ -1,0 +1,6 @@
+?- full_words(1201).
+one-two-zero-one
+
+?-full_words(1821).
+one-eight-two-one
+

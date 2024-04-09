@@ -1,0 +1,7 @@
+
+
+
+No. of positive numbers: 1
+No. of Negative numbers: 0
+No. of Positive numbers in fractions: 1
+No. of Negative numbers in fractions: 1
